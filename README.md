@@ -1,5 +1,3 @@
-
-<img src="https://github.com/cosmospock/cosmospock/blob/main/HeaderBanner.png" width="950" height="500" aspect-ratio='center' style="margin-bottom: 0">
 <h1 align="center" style="margin-bottom: 0">Hi 👋, I'm Gloria!</h1>
 <h3 align="center">A passionate Full-Stack Developer from Raleigh, North Carolina!</h3>
 <p align="left"> <a href="https://twitter.com/gloriakorlou" target="blank"><img src="https://img.shields.io/twitter/follow/gloriakorlou?logo=twitter&style=for-the-badge" alt="gloriakorlou" /></a> </p>
