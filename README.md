@@ -1,5 +1,5 @@
 <h1 align="center" style="margin-bottom: 0">Hi 👋, I'm Gloria!</h1>
-<h3 align="center">A passionate Full-Stack Developer from Raleigh, North Carolina!</h3>
+<h3 align="center">A passionate Full-Stack Developer from Raleigh, North Carolina now living in Upstate New York working as a Senior Programmer!</h3>
 <p align="left"> <a href="https://twitter.com/gloriakorlou" target="blank"><img src="https://img.shields.io/twitter/follow/gloriakorlou?logo=twitter&style=for-the-badge" alt="gloriakorlou" /></a> </p>
 
 - 🔭 I’m currently working on [Memphis Tapes](https://github.com/cosmospock/MemphisTapes)
