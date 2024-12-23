@@ -8,9 +8,9 @@
 
 - 💬 Ask me about **React, HTML, anything! (Especially about Elvis)**
 
-- 📫 How to reach me **Contact@GloriaBarbarella.com**
+- 📫 How to reach me **Contact@GateGirlRecords.com**
 
-- ⚡ Fun fact **I build and repair rotary phones and typewriters**
+- ⚡ Fun fact **I build and repair rotary phones and typewriters!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
